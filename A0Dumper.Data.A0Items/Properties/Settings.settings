@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="A0Dumper.Data.A0Items.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A0Admin</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ConnStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Provider=SQLOLEDB.1;User ID=sa;Password="p@55w0rd";Persist Security Info=True;Initial Catalog=A0Data;Data Source=localhost\A0_28</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
